@@ -3,6 +3,12 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" height="600" width="500"/>
 </div>
 
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/63009970/150683672-7681986b-5471-4402-9a70-287d0cd8ce0e.jpg" height="600" width="500"/>
+</div>
+
+
+
 <!--
 **pawanMasaiSchool/pawanMasaiSchool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
