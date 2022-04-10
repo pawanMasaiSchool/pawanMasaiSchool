@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I am Pawan Sukhwani</h1>
 <h3 align="center">I am a Full Stack web developer based in Mumbai India, with a keen interest in web technologies and frameworks, with knowledge of Data Structures and Algorithms</h3>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" height="600px" width="500px"/>
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" height="200px" width="200px"/>
 </div>
 
 
