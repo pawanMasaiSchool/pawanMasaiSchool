@@ -1,40 +1,46 @@
-### Hi there 👋
-<h1>I am Pawan Sukhwani</h1>
 
+<h1 align="center">Hi 👋, I am Pawan Sukhwani</h1>
+<h3 align="center">I am a Full Stack web developer based in Mumbai India, with a keen interest in web technologies and frameworks, with knowledge of Data Structures and Algorithms</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" height="600px" width="500px"/>
 </div>
 
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/63009970/150683672-7681986b-5471-4402-9a70-287d0cd8ce0e.jpg" height="60px" width="500px"/>
-</div>
 
-<h2>Tech Stack</h2>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/ce9ebe8debf601d8b74690e9104bc52921256455e47d64e63974beb203009395/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d457870726573732e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d65787072657373266c6f676f436f6c6f723d3233363144414642" title="Express" **alt="Express" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawanmasaischool&label=Profile%20views&color=0e75b6&style=flat" alt="pawanmasaischool" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawanmasaischool" alt="pawanmasaischool" /></a> </p>
 
-<!--
-**pawanMasaiSchool/pawanMasaiSchool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://twitter.com/pawanksukhwani" target="blank"><img src="https://img.shields.io/twitter/follow/pawanksukhwani?logo=twitter&style=for-the-badge" alt="pawanksukhwani" /></a> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Cameo-Clone](https://cameo-celebrity.netlify.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://sukhwanipawan.netlify.app/](https://sukhwanipawan.netlify.app/)
+
+- 💬 Ask me about **MongoDB, Express, React, Node**
+
+- 📫 How to reach me **sukhwanipawan@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/12P1YAwWGBeeydhxikbiOX9WJqoymYNZX/view](https://drive.google.com/file/d/12P1YAwWGBeeydhxikbiOX9WJqoymYNZX/view)
+
+- ⚡ Fun fact **I Cannot stay hungry for more than 3 hours**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/pawanksukhwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pawanksukhwani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pawan-sukhwani-0b4365140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawan-sukhwani-0b4365140" height="30" width="40" /></a>
+<a href="https://codesandbox.com/pawanmasai1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="pawanmasai1" height="30" width="40" /></a>
+<a href="https://medium.com/@sukhwanipawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sukhwanipawan" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawanmasaischool&show_icons=true&locale=en&layout=compact" alt="pawanmasaischool" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawanmasaischool&show_icons=true&locale=en" alt="pawanmasaischool" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawanmasaischool&" alt="pawanmasaischool" /></p>
