@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **sukhwanipawan@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3OAcXhE](https://drive.google.com/file/d/12P1YAwWGBeeydhxikbiOX9WJqoymYNZX/view)
+- 📄 My resume [https://bit.ly/3OAcXhE](https://drive.google.com/file/d/12P1YAwWGBeeydhxikbiOX9WJqoymYNZX/view)
 
 - ⚡ Fun fact **I Cannot stay hungry for more than 3 hours**
 
